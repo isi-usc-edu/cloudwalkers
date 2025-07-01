@@ -6,7 +6,6 @@
 *.remote
 *.xml
 *.DS_Store
-*.mp4
 
 # FILES
 *.php
