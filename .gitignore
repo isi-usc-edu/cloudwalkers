@@ -1,0 +1,17 @@
+# FILE TYPES
+*.afdesign
+*.iml
+*.lock
+*.name
+*.remote
+*.txt
+*.xml
+*.DS_Store
+
+# FILES
+*.php
+sandbox.*
+.gitignore
+
+# FOLDERS
+assets/video/
