@@ -4,9 +4,9 @@
 *.lock
 *.name
 *.remote
-*.txt
 *.xml
 *.DS_Store
+*.mp4
 
 # FILES
 *.php
@@ -14,4 +14,3 @@ sandbox.*
 .gitignore
 
 # FOLDERS
-assets/video/
