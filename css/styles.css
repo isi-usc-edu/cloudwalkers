@@ -44,6 +44,16 @@ p {
     padding: 5rem 0;
 }
 
+.section-border {
+    border-left: solid 1px #fff;
+}
+
+@media (max-width: 767px) {
+    .section-border {
+        border: none;
+    }
+}
+
 .py-10 {
     padding: 5rem 0;
 }
@@ -321,4 +331,28 @@ a.btn:hover {
 
 .play-button svg {
     margin-top: 25%;
+}
+
+#about-masthead {
+    max-height: 350px;
+    overflow: hidden;
+}
+
+#about-masthead > div {
+    width: 3000px;
+}
+
+#about-masthead img {
+    display: inline-block;
+    max-height: 350px;
+    margin-right: 5px;
+}
+
+@media screen and (max-width: 767px) {
+    #about-masthead {
+        max-height: 250px;
+    }
+    #about-masthead img {
+        max-height: 250px;
+    }
 }
