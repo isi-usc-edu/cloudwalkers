@@ -4,6 +4,7 @@
 *.lock
 *.name
 *.remote
+*.sh
 *.xml
 *.DS_Store
 
