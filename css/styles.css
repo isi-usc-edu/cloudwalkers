@@ -19,6 +19,10 @@
     color: #999;
 }
 
+.text-lightgray {
+    color: #cccccc;
+}
+
 body {
     margin: 0;
     font-family: var(--bs-body-font-family);
