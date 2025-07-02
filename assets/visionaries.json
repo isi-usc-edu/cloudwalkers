@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Keith Uncapher",
+    "topic": "The Visionary Founder of ISI",
+    "excerpt": "In 1972, at the age of 52, Uncapher took a bold risk, left RAND and formed an institute that would jumpstart the digital revolution.",
+    "content": "<p>In 1972, at the age of 52, Keith Uncapher faced a turning point when the Pentagon Papers scandal led to a dramatic cut in funding for RAND Corporation, where top-secret, pathbreaking  projects in computer science and other fields were underway. This crisis left Keith furious and determined, spurring him to leave RAND and form the Information Sciences Institute (ISI).</p><p>His sons, Bill and Jeff, recount how Keith envisioned ISI as a place where cutting-edge projects could thrive without bureaucratic constraints. Determined to create a new kind of research environment, Keith's visionary leadership fueled the creation of ISI, offering a fascinating glimpse into the origins of an institute that would forever change the Information Age and usher in the digital revolution.</p>",
+    "description": "Keith Uncapher founded USC’s Information Sciences Institute after leaving RAND, sparking a digital revolution.",
+    "youtube": "0GWwxVlTSo8"
+  },
+  {
+    "name": "Vint Cerf",
+    "topic": "The Internet - Past, Present and Future",
+    "excerpt": "One of the Internet's founding fathers explores its history and transformative impact, offering insights into what lies ahead.",
+    "content": "<p>In 1974, Vint Cerf and Robert Kahn wrote \"A Protocol for Packet Network Intercommunication,\" the foundational document for the Internet. Since then, the Internet has exploded into a global phenomenon, transforming every aspect of our lives in ways the founders didn't even imagine.</p><p>In this eye-opening interview, one of the founding fathers of the Internet shares captivating stories from its early days, shedding light on the revolutionary and often unconventional thinkers who made it possible. He reflects on the profound impact the Internet has had on society, the contributions society has made to its evolution, and the complexities and opportunities that lie ahead. A rare conversation with one of the most influential technologists of our time.</p>",
+    "description": "From writing the Internet’s founding protocol to forecasting its future, Vint Cerf shares rare insights from a life in tech.",
+    "youtube": "kulruoHOqjg"
+  },
+  {
+    "name": "Robert Kahn",
+    "topic": "Architects of The Internet",
+    "excerpt": "A principal Internet architect recounts its genesis, emerging radio, satellite, and computer networks to revolutionize communication.",
+    "content": "<p>Robert Kahn started his career at Bell Laboratories, working on some of the most significant advancements in telecommunications. His pioneering work since has been instrumental in shaping the digital landscape we know today. As one of the principal architects of the Internet, Kahn, alongside Vinton Cerf, developed the TCP/IP protocols, the foundation of modern networking. These protocols revolutionized communication by enabling the seamless exchange of information across diverse networks.</p><p>Kahn's journey included designing the Interface Message Processor for ARPANET, the precursor to the Internet, and organizing its public debut. His visionary contributions continued at DARPA, where he innovated solutions for connecting disparate military networks. By integrating advances in radio, satellite, and early computer networks, Kahn's innovations transformed global communication. His legacy continues to influence and inspire the future of technology, making him a pivotal figure in the evolution of the Internet.</p>",
+    "description": "Internet pioneer Robert Kahn reveals how early breakthroughs in networking paved the way for today’s connected world.",
+    "youtube": "_zlzemihJ-8"
+  },
+  {
+    "name": "Terry Benzel",
+    "topic": "Charting the Future of Cybersecurity",
+    "excerpt": "Since helping the White House go online, Terry Benzel has led the charge in tackling the dynamic challenges of cybersecurity.",
+    "content": "<p>When Terry Benzel was in nursery school, her father captivated the children by teaching them how to build a logic board. At home, she was immersed in an environment rich with philosophy and logic—a perfect training ground for a woman destined to fight some of the biggest battles in cyber warfare.</p><p>Terry, a Harley-riding dynamo, played a pivotal role in putting the White House online during President Bill Clinton's administration. Since then, she has become a leading force in cybersecurity, orchestrating sophisticated simulations of cyber attacks to fortify our digital infrastructure against potential threats. Her journey from a childhood surrounded by logic symbols to the frontlines of cyber defense reads like a thrilling chapter from The Da Vinci Code.</p>",
+    "description": "From wiring the White House to battling cybercrime, Terry Benzel reveals how logic, grit, and foresight shaped her path.",
+    "youtube": "ipnvqDiJQzg"
+  },
+  {
+    "name": "Paul Mockapetris",
+    "topic": "The Quest To Connect The World",
+    "excerpt": "His invention enabled hundreds of millions of domains, a communication revolution, and the task of managing a vast network.",
+    "content": "<p>After his dreams of becoming a physicist were dashed, Paul Mockapetris moved to Southern California to pursue a Ph.D. in information and computer science. There, he discovered a profound love for computers and a talent for innovative problem-solving that would set the stage for his major contributions to the digital age.</p><p>As a young researcher at ISI eager to prove himself, he was handed the daunting task of finding a solution to manage the growing number of IP addresses on the ARPANET. Undeterred, Mockapetris developed the Domain Name System (DNS), an invention that revolutionized the Internet and made possible the existence of familiar web addresses like google.com. His work laid the foundation for the vast, interconnected digital world we navigate today.</p>",
+    "description": "Paul Mockapetris invented the Domain Name System (DNS), making the modern Internet navigable and scalable.",
+    "youtube": "MJBVELNKBjM"
+  },
+  {
+    "name": "Eve Schooler",
+    "topic": "How the Web Turned into a Multimedia Marvel",
+    "excerpt": "She brought the first live concert online, then built the tools used for videoconferencing and a host of multimedia applications.",
+    "content": " <p>Eve Schooler has played a pivotal role in bringing multimedia to the Internet, enabling the functionality of platforms like FaceTime, Zoom, and Netflix. Interviewed by Jon Postel for a position in a multimedia conferencing project, Schooler joined forces with Steve Casner working on bringing voice and video online. Together, they broadcast the first live concert over the internet, a groundbreaking achievement at the time.</p><p>Their pioneering work laid the foundation for modern internet multimedia protocols, earning them the 2020 IEEE Internet Award for distinguished leadership in developing standards for internet multimedia. At ISI, Schooler was instrumental in developing the Session Initiation Protocol, crucial for internet communications. She later moved to Intel, where she developed emerging technologies in the Internet of Things (IoT). Her efforts have significantly advanced the field of distributed computing and multimedia, making her a key figure in the development of the technologies we rely on today.</p>",
+    "description": "Eve Schooler helped bring voice and video to the internet, powering the rise of Zoom, FaceTime, and more.",
+    "youtube": "u6QOmA-dfPk"
+  },
+  {
+    "name": "Deborah Estrin",
+    "topic": "Engineering the Future with Sensor Networks",
+    "excerpt": "Her work on sensor networks revolutionized mobile health, environmental monitoring and how we solve global challenges.",
+    "content": " <p>When Deborah Estrin joined USC's Information Sciences Institute (ISI) in the mid-80s, she immediately made waves with the Internet Engineering Taskforce, shaping the nascent internet. Coming from a family of scientific innovators, she pioneered sensor networks, revolutionizing mobile health, environmental monitoring, and marine biology.</p><p>Her pathbreaking research and leadership at USC, UCLA, and Cornell Tech have consistently advanced technology's potential to solve global challenges, making her one of the most cited computer scientists of all time. Estrin reflects on the internet's early development and how its evolution not only connected people but also eventually enabled the integration of numerous data-collecting devices, creating a world rich in data-driven insights.</p>",
+    "description": "Deborah Estrin helped shape the early internet and pioneered sensor networks that transformed mobile health and science.",
+    "youtube": "sBw3LlCvA-I"
+  },
+  {
+    "name": "Kevin Knight",
+    "topic": "From Google Translate to Ancient Manuscripts",
+    "excerpt": "Kevin Knight's machine-learning systems to decrypt the world's languages have transformed communication.",
+    "content": " <p>Kevin Knight's fascination with language has driven his groundbreaking work in natural language processing, transforming the way we communicate. Knight and his collaborators at ISI developed the early technologies that would become the precursors to Google Translate, Bing Translator, and SDL Language Weaver. Their efforts in statistical machine translation turned a nascent field into a thriving industry, enabling billions of words to be translated daily across the globe.</p><p>But Knight's contributions don't stop there. His work extends to deciphering ancient manuscripts, bridging the past and present by unlocking historical texts through cutting-edge AI. By teaching computers to understand and translate languages, Knight has not only revolutionized modern communication but also paved the way for future advancements in how we interact with technology and preserve our cultural heritage.</p>",
+    "description": "Kevin Knight helped build the early tech behind Google Translate and turned machine translation into a global industry.",
+    "youtube": "q2ukso9G7ns"
+  },
+  {
+    "name": "Ewa Deelman",
+    "topic": "Advancing Science with Computational Power",
+    "excerpt": "How her Pegasus software enabled the Nobel-winning discovery of gravitational waves, validating Einstein's theory.",
+    "content": " <p>Ewa Deelman led the development of Pegasus, a powerful scientific workflow management software that played a crucial role in the Nobel Prize-winning discovery of gravitational waves, confirming Einstein's General Theory of Relativity.</p><p>As a research professor at ISI, Deelman's work with Pegasus has automated complex computational tasks, enabling groundbreaking research across various fields. Pegasus has been used in numerous scientific domains, including astronomy, bioinformatics, earthquake science, gravitational wave physics, ocean science, and limnology. Her efforts have not only advanced scientific understanding but also showcased the transformative potential of computational tools in addressing some of the world's most significant challenges.</p>",
+    "description": "Ewa Deelman developed Pegasus, the workflow engine behind the Nobel Prize-winning discovery of gravitational waves.",
+    "youtube": "YiUaU0ZVZOk"
+  },
+  {
+    "name": "Craig Knoblock",
+    "topic": "Shaping the Age of AI at ISI",
+    "excerpt": "Knoblock has led ISI through the Age of Al, pioneering machine learning advancements that revolutionize data integration and problem-solving.",
+    "content": " <p>Leading ISI in the Age of AI, as the institute's fourth Executive Director, Craig Knoblock has successfully bridged multiple disciplines to leverage AI in solving complex problems. His early work on AI assistants paved the way for innovations like Siri and evolved into developing knowledge graphs, extracting data from historical maps or works of art and even fighting human trafficking with AI. Knoblock's extensive research focuses on describing, acquiring, and exploiting the semantics of data.</p><p>As a Research Professor of both Computer Science and Spatial Sciences at USC, and Research Director of the Center on Knowledge Graphs, Knoblock's efforts have had a profound impact on various scientific domains. His innovative projects include creating the Digital Museum of the Future in partnership with the Smithsonian, using AI to interpret and integrate vast amounts of information, and addressing pressing global issues.</p>",
+    "description": "Craig Knoblock leads ISI into the AI era, advancing knowledge graphs, digital archives, and real-world impact.",
+    "youtube": "w0qmuKgHvPo"
+  },
+  {
+    "name": "Stephen Crago",
+    "topic": "Leading The Digital Revolution",
+    "excerpt": "Transforming the U.S. microelectronics industry and enhancing national security with advancements in heterogeneous computing technologies.",
+    "content": " <p>Stephen Crago's early days in computing began with clunky mainframe computers, machines so massive and unwieldy that they make today’s smartphones look like supercomputers. These early machines, far from smart, required meticulous human guidance for even the simplest tasks.</p><p>Throughout his career, Crago has witnessed the evolution of computers from those lumbering giants to the sleek, powerful devices we use today, and now into the realm of quantum computing. Today, he is at the forefront of revolutionizing the U.S. microelectronics industry to fortify national security. Leading advancements in heterogeneous and quantum computing, Crago's innovative work is paving the way for more efficient and powerful technologies that promise to drive the next wave of digital innovation.</p>",
+    "description": "Stephen Crago leads innovations in quantum and heterogeneous computing to strengthen America’s tech infrastructure.",
+    "youtube": "t9-Oe7tw7E8"
+  },
+  {
+    "name": "Nina Mehrabi",
+    "topic": "Trustworthy AI in the Courtroom",
+    "excerpt": "How ISI's emerging researchers are reducing biases in Al to create a more equitable and reliable legal process.",
+    "content": " <p>Nina Mehrabi's journey into the world of technology began with a unique challenge: teaching robots how to play soccer. This early fascination with robotics ignited a passion for engineering and innovation that would drive her career forward. As a young researcher at ISI, Nina dedicated herself to addressing one of the most critical issues in artificial intelligence: bias. Determined to make AI systems fairer and more equitable, Nina focused her research on reducing biases against people with disabilities and people of color.</p><p>Her work aims to ensure that AI could be a fair tool for justice, not a source of discrimination. By developing algorithms that promote fairness, Nina's efforts have paved the way for AI applications in the legal system that are both trustworthy and unbiased. Her commitment to ethical AI ensures that as technology advances, it serves all members of society fairly.</p>",
+    "description": "Nina Mehrabi is building fairer AI systems by reducing bias against people of color and those with disabilities.",
+    "youtube": "yGUkbX2nL_A"
+  },
+  {
+    "name": "Ellis Horowitz",
+    "topic": "From Groceries to Gigahertz",
+    "excerpt": "He started as a grocery store worker in New York, then went on to shape computer science in the era of brilliant tech.",
+    "content": " <p>Ellis Horowitz recounts his journey from a humble childhood living over a bug-infested grocery store in New York to becoming a pivotal figure in computer science at USC. Starting his career during the early days of computer science, he faced a critical decision between industry and academia, ultimately choosing to advance his studies at the University of Wisconsin amidst the fervor of student revolts and Vietnam War protests.</p><p>After earning his Ph.D. in 1969, he joined the nascent computer science department at Cornell before moving to USC in the mid-1970s. At USC, Horowitz played a crucial role in integrating the research-driven Information Sciences Institute (ISI) with the academic rigor of the campus. Known for his demanding interview style, he recruited and developed a talented team that would go on to make significant contributions to the field. His story is a testament to the dynamic evolution of computer science over five decades, from mainframes and punch cards to the modern era of cloud computing.</p>",
+    "description": "Ellis Horowitz helped shape USC’s computer science legacy, bridging academia and innovation from ISI to the classroom.",
+    "youtube": "1qGmJacLkiM"
+  },
+  {
+    "name": "Robert Balzer",
+    "topic": "Forging ISI from the Pentagon Papers Fallout",
+    "excerpt": "Balzer, ISI's employee nr. 1, recalls how the Pentagon Papers ignited ISI's creation, drawing the brightest computer scientists.",
+    "content": " <p>As the Nixon Administration cut funding for computer science at RAND Corporation due to the Pentagon Papers scandal, Robert Balzer, together with Keith Uncapher and Thomas Ellis, left RAND and embarked on a journey to establish an institute in Marina Del Rey that would transform the digital revolution.</p><p>Balzer's expertise and vision were instrumental in establishing ISI as a force multiplier in the Information Age. He served as a professor and director of the Software Sciences Division, leading groundbreaking advancements in software development and AI. With a reputation for being a demanding interviewer, Bob handpicked and developed many of the engineers on the initial ISI team who later went on to significant contributions to the field. After 28 years at ISI, Balzer continued his pioneering efforts as the chief technical officer at Teknowledge Corporation, where he pushed the boundaries of AI and software engineering.</p>",
+    "description": "Robert Balzer helped build ISI’s original team and pioneered breakthroughs in AI, software, and digital innovation.",
+    "youtube": "VABVT0Rm9ho"
+  },
+  {
+    "name": "Kristina Lerman",
+    "topic": "Decoding Misinformation",
+    "excerpt": "She studies the inner-workings of social networks to counter misinformation and break down echo chambers.",
+    "content": " <p>Kristina Lerman's journey from a childhood in Kyiv, Ukraine, to a leading role in combating misinformation and polarization is a compelling narrative of resilience and innovation. Born in the Ukrainian capital, Lerman's early life was shaped by her Jewish-Ukrainian heritage and the rigid controls of the Soviet regime. In the late 1970s, her family seized the opportunity to emigrate to the U.S., settling in New York City. This transition during her formative years ingrained in her a deep understanding of socio-political dynamics, laying the groundwork for her future endeavors in computer science.</p><p>Today, Lerman is at the forefront of research at USC's Information Sciences Institute, focusing on the mechanics of social networks. Her work, inspired by the COVID-19 pandemic and the ongoing war in Ukraine, delves into the spread of misinformation and the formation of echo chambers. By analyzing social media data, Lerman aims to understand public sentiment, emotional reactions, and the moral foundations driving human responses. Her goal is to develop strategies to counteract misinformation and foster a more informed society.</p>",
+    "description": "Kristina Lerman uses data science to fight misinformation and polarization, tracing behavior across online social networks.",
+    "youtube": "k0_MYl7EcvI"
+  },
+  {
+    "name": "Mayank Kejriwal",
+    "topic": "Using AI to Fight Human Trafficking",
+    "excerpt": "His work with Al is setting a precedent for using advanced technology to address the world's most pressing issues.",
+    "content": " <p>Mayank Kejriwal uses AI to fight one of society's biggest challenges: human trafficking. As a Principal Scientist at ISI and a Research Assistant Professor, Kejriwal’s groundbreaking work on the DIG (Domain-Specific Insight Graphs) system has transformed the landscape of law enforcement investigations. DIG, part of the DARPA-funded Memex program, employs sophisticated machine learning to navigate the vast expanse of online ads, uncovering hidden patterns that connect traffickers with their victims. This powerful tool has been instrumental in initiating hundreds of investigations and securing numerous felony convictions.</p><p>Kejriwal's passion for leveraging technology for social good goes beyond the lab. He collaborates with experts across various fields to set a precedent for how advanced technology can be used to solve some of the world's most pressing issues.</p>",
+    "description": "Mayank Kejriwal uses AI to combat human trafficking, helping law enforcement uncover hidden online networks.",
+    "youtube": "HPBZlo2R9Sk"
+  },
+  {
+    "name": "John Wroclawski",
+    "topic": "Models of a Future Internet and Society",
+    "excerpt": "How can future internet models be designed to enhance cybersecurity, foster collaboration, and drive technological transformation?",
+    "content": " <p>John Wroclawski, a pioneer in computer networking, discusses the transformative power of the internet and its foundational concept as a general-purpose network capable of supporting innovations beyond its initial design. He highlights the internet's success as stemming from its flexibility and openness, which have enabled unforeseen applications like the World Wide Web and social media to emerge.</p><p>Wroclawski reflects on his journey to the Information Sciences Institute (ISI), where he was drawn by its collaborative environment and significant role in shaping the internet's development. He emphasizes ISI's contributions to the open-source movement and the social structures that support the internet's collaborative nature. Wroclawski also discusses the evolving role of ISI as computing becomes a fundamental pillar of society. He envisions ISI addressing societal challenges through interdisciplinary research that integrates computer science with fields such as journalism and medicine.</p><p>A critical focus is on cybersecurity, where ISI is pioneering proactive strategies and creating testbeds like the DETER project to model and experiment with cybersecurity scenarios. Additionally, Wroclawski sees potential in machine learning and AI to revolutionize fields like drug discovery, potentially averting the crisis of antibiotic resistance.</p>",
+    "description": "John Wroclawski discusses the transformative power of the internet and its foundational concept as a general-purpose network.",
+    "youtube": "a1QfKOSdXkQ"
+  },
+  {
+    "name": "Prem Natarajan",
+    "topic": "Leading ISI’s Expansion into AI and Quantum",
+    "excerpt": "Empowering diverse teams at ISI to drive innovation and tackle moonshots at the edge of the doable.",
+    "content": " <p>Prem Natarajan, ISI's Executive Director from 2013 to 2020, shares his journey from a multilingual childhood in India to becoming a leader in artificial intelligence. His early fascination with language led him to pursue computing, starting with IBM’s Watson Research Center, where he worked on handwriting recognition and speech technologies.</p><p>At ISI, Natarajan fostered a culture of innovation by expanding research into fields like quantum computing and AI-driven multimedia analysis. He emphasized recruiting top talent and aligning their passions with the institute’s goals, pushing the boundaries of what’s possible with moonshot projects. Under his leadership, ISI became a leader in cutting-edge technology, significantly contributing to global challenges. Natarajan also expanded ISI’s reach by opening a Boston office, enhancing the institute’s capabilities and ensuring its continued impact on technological innovation.</p>",
+    "description": "As ISI director, Prem Natarajan advanced cutting-edge AI, speech tech, and quantum research while growing global impact.",
+    "youtube": "NV-JGc54Ehs"
+  },
+  {
+    "name": "Pedro Szekely",
+    "topic": "Mastering the Semantic Web for Social Good",
+    "excerpt": "Exploring the mysteries of the semantic web, transforming data into knowledge to revolutionize human-machine interaction.",
+    "content": " <p>Pedro Szekely's journey from Bogotá, Colombia, to the forefront of AI and computer science at ISI is both compelling and impactful. Initially struggling with reading in school, he found a passion for mathematics that led him to computer science. After earning a double major in math and computer science, he pursued a PhD at Carnegie Mellon University. At ISI, he navigated canceled projects and evolving research interests, maintaining a focus on impactful innovation.</p><p>Szekely is known for pioneering work in AI, particularly with the Semantic Web and knowledge graphs. His project Karma, developed with Craig Knoblock, integrates data into semantic web representations, crucial for applications like smart assistants. A significant contribution is the DIG Project, which uses AI to combat human trafficking by analyzing online ads to identify victims and perpetrators, demonstrating AI's potential to tackle social issues. Additionally, Szekely collaborated with the Smithsonian to create a linked open data model for American art, democratizing access to cultural heritage.</p>",
+    "description": "Colombian-born researcher Pedro Szekely drives AI innovation at ISI—from the Semantic Web to social impact.",
+    "youtube": "6JsQFoMRmAk"
+  },
+  {
+    "name": "Second Spectrum",
+    "topic": "From ISI to the NBA",
+    "excerpt": "Making the invisible visible, machine learning and computer vision redefine sports analytics, uncovering insights that reach beyond the arena.",
+    "content": " <p>The co-founders of Second Spectrum, Rajiv Maheswaran and Yu-Han Chang, share their journey from academia to revolutionizing the world of sports analytics. The story begins with a serendipitous meeting at USC's Information Sciences Institute (ISI) and evolves into a partnership fueled by a shared passion for sports and innovation. What started as a simple idea—to turn athletes into moving dots—led to a groundbreaking exploration of spatial-temporal data and its applications in sports.</p><p>With support from ISI and USC, the team developed cutting-edge technologies that transformed raw data into actionable insights, impacting every facet of sports from coaching to broadcasting. This interview offers a fascinating glimpse into the power of data and machine learning, as the founders recount how their innovations not only enhanced athletic performance but also changed the way fans and teams experience the game.</p>",
+    "description": "Rajiv Maheswaran and Yu-Han Chang turned sports into data at ISI—founding Second Spectrum and redefining analytics.",
+    "youtube": "LhjQIZzQxQ8"
+  },
+  {
+    "name": "Yolanda Gil",
+    "topic": "Where AI Meets Human Insight",
+    "excerpt": "Yolanda Gil's work on intelligent systems that learn, reason, and explain has shaped how Al collaborates with humans, powering discoveries from Siri to scientific breakthroughs.",
+    "content": " <p>Yolanda Gil’s path to AI began far from computers, in the Spanish countryside, surrounded by novels, not machines. It wasn’t until she came to the U.S. for graduate school, unaware of what a Ph.D. even entailed, that she stepped fully into the world of artificial intelligence. At Carnegie Mellon, she immersed herself in the emerging ideas of machine learning, human-computer collaboration, and cognitive systems.</p><p>That curiosity led her to USC’s Information Sciences Institute, where she helped build early intelligent agents that could explain themselves, reason from failure, and even manage to-do lists—ideas that would later shape systems like Siri and Wikidata. As a leading voice in the AI community, Gil has consistently pushed for technologies that serve science and society, earning her roles as president of AAAI, chair of ACM SIGAI, and, in 2024, an appointment to the National Science Board. Her work continues to ask one of AI’s most human questions: not just what machines can do, but how they can understand us and help us understand the world.</p>",
+    "description": "Yolanda Gil has helped shape the evolution of human-centered AI, from early intelligent systems to national science policy—bridging research, application, and ethical impact.",
+    "youtube": "a97KQVSylkw"
+  },
+  {
+    "name": "Yigal Arens",
+    "topic": "Building the Systems That Make AI Work",
+    "excerpt": "Yigal Arens's work in information integration advanced how intelligent systems connect and interpret data from diverse sources.",
+    "content": " <p>Yigal Arens’s path to artificial intelligence began with a leap of faith. He signed up for a computer science summer camp in Israel without knowing what programming was. That spark led him from mathematics at Berkeley to the emerging world of AI, where he became part of a wave of researchers drawn to the power of machines that could reason and learn.</p><p>Arens found his home at USC’s Information Sciences Institute, where he helped pioneer the field of information integration, teaching computers how to connect data across fragmented systems and laying the groundwork for smarter, more connected technologies. A steadfast presence at ISI for decades, Arens has shaped key areas of AI research and nurtured the institute’s collaborative, self-sustaining culture. What defines his work is a steady resilience and a commitment to the behind-the-scenes systems that enable everything else to function.</p>",
+    "description": "Yigal Arens helped shape AI’s foundation, connecting fragmented data and building smarter systems at USC’s Information Sciences Institute.",
+    "youtube": "mc_0GW3gswk"
+  },
+  {
+    "name": "Zachary Lemnios",
+    "topic": "Moonshots, Microchips, and the Mission",
+    "excerpt": "Zachary Lemnios advanced defense innovation and microelectronics, partnering with ISI to expand access to chip design and seed a new generation of technologists.",
+    "content": " <p>Zachary Lemnios has spent a career at the intersection of science, defense, and innovation—moving between industry, government, and academia to help shape the technologies that power modern life. As Assistant Secretary of Defense for Research and Engineering and a DARPA leader, he championed moonshot ideas with massive stakes: secure systems, advanced microelectronics, and the architectures behind GPS, stealth, and AI. For Lemnios, progress begins with the question no one else is asking and the courage to pursue an answer no one can yet prove.</p><p>In this interview, he reflects on his collaboration with the Information Sciences Institute and the pivotal role ISI played in democratizing chip design through programs like MOSIS. He recalls standing before one of the original ARPANET nodes tucked away in a nondescript building in Marina del Rey and seeing the future of the internet take shape. What struck him wasn’t just the history but the ingenuity; ISI’s ability to open doors, build trust with industry, and empower researchers across the country. It’s a model of innovation he believes the nation needs more than ever.</p>",
+    "description": "From DARPA to the Pentagon, Zachary Lemnios advanced technologies behind GPS, AI, and microelectronics, drawing on ISI’s model of trust, access, and national impact.",
+    "youtube": "n0LgpuY98Fg"
+  },
+  {
+    "name": "Carl Kesselman",
+    "topic": "Engineering the Invisible Engines of Science",
+    "excerpt": "From the Higgs boson to biomedical labs, Carl Kesselman transforms data into a reliable foundation for innovation.",
+    "content": " <p>Carl Kesselman has spent his career building the invisible scaffolding of modern science. From grid computing to biomedical data platforms, his work bridges disciplines, institutions, and decades, always with an eye toward what lies just beyond the edge of what’s possible.</p><p>At USC’s Information Sciences Institute, Kesselman helped pioneer global-scale systems that enabled the discovery of the Higgs boson, advanced climate modeling, and reimagined how scientists collaborate. But he’s just as focused on the small, messy, creative teams where innovation truly lives. In this interview, he traces a path from high-performance computing to neuroscience, revealing how ISI became a laboratory not just for new technologies, but for new methods of doing science itself.</p><p>Kesselman believes the next scientific revolution won’t come from a faster algorithm, it will come from changing how we share, fail, and learn.</p>",
+    "description": "At USC’s ISI, Carl Kesselman developed the global computing systems behind major scientific breakthroughs, redefining how research is shared, scaled, and done.",
+    "youtube": "bRadER_t9iA"
+  },
+  {
+    "name": "Yannis Yortsos",
+    "topic": "From Mainframes to Meaning",
+    "excerpt": "Dean Yortsos charts ISI's 50-year journey and explores how engineering must rise to meet the intertwined futures of technology and humanity.",
+    "content": " <p>Yannis Yortsos sees engineering not just as invention, but as transformation. As Dean of USC’s Viterbi School, he reflects on the Information Sciences Institute as a living experiment in what happens when a university embraces use-inspired research at scale, bringing together faculty, PhD students, and government collaborators to tackle problems that matter.</p><p>In this conversation, Yortsos traces ISI’s evolution from a DARPA outpost to a national engine of computing innovation. From early internet infrastructure to today’s efforts in AI, quantum, and trustworthy systems, ISI’s value lies in how it bridges academia and application, theory and deployment. For Yortsos, the future of engineering will be defined not only by technical excellence, but by how well we shape technology to serve human needs—with responsibility, integrity, and foresight</p>",
+    "description": "USC Dean Yannis Yortsos explores how ISI became a powerhouse of computing innovation, linking research, application, and human impact at global scale.",
+    "youtube": "TOiC7u8LaYQ"
+  },
+  {
+    "name": "Dan Keston",
+    "topic": "A Family Legacy of Building What Matters",
+    "excerpt": "The Keston Family Endowment empowers researchers at USC's Information Sciences Institute to transform bold ideas into working prototypes.",
+    "content": " <p>Dan Keston believes in ideas you can touch. For nearly two decades, the Keston Family Endowment has fueled innovation at USC’s Information Sciences Institute, not by funding abstract theory but by backing ideas on the brink of becoming real. Each year, ISI researchers compete for the chance to move their prototypes into the world, from deepfake detection tools to advanced retinal imaging technologies. The endowment gives them the rarest resource in science: breathing room.</p><p>Rooted in a family legacy of building, from homes across Los Angeles to breakthrough technologies, Keston’s approach is hands-on, impact-driven, and deeply personal. He sees ISI as a launchpad not just for products but for purpose-driven science. In his view, true innovation is not just about novelty. It is about giving researchers the freedom to dream, the tools to build, and the support to bring meaningful solutions into everyday life.</p>",
+    "description": "Dan Keston shares how the Keston Family Endowment helps ISI researchers turn bold ideas into real-world solutions—from deepfake detection to retinal imaging.",
+    "youtube": "Eagpp7e895I"
+  },
+  {
+    "name": "Alex Spangher",
+    "topic": "Building the Future of News",
+    "excerpt": "He is developing Al tools to support local news, surface untold stories, and expand the voices we hear.",
+    "content": " <p>Alex Spangher’s journey begins with music. Hours at the piano, years with the bass—which teaches him something rare in research: how to build slowly, with rhythm, form, and care. That same sensibility shaped his work as a PhD researcher at USC’s Information Sciences Institute, where he worked to reimagine journalism for an era of shrinking newsrooms and endless information.</p><p>After his time as a data scientist at The New York Times, Spangher sees the gaps in how stories are found, who gets quoted, and what voices shape the public record. At ISI, he developed tools that help journalists surface hidden leads, diversify their sources, and reach audiences more deeply. His goal isn’t to automate the news, it’s to restore its reach and relevance.</p>",
+    "description": "8PRzXgIQHz4",
+    "youtube": "8PRzXgIQHz4"
+  },
+  {
+    "name": "Yao-Yi Chiang",
+    "topic": "Mapping the Past to Predict the Future",
+    "excerpt": "Yao-Yi Chiang transforms historical maps into living data, revealing how our cities, environments, and infrastructure have evolved over time.",
+    "content": " <p>Yao-Yi Chiang’s journey at USC’s Information Sciences Institute—from master’s student to postdoc—ignited a career at the intersection of machine learning, spatial computing, and historical preservation. He is developing AI tools that read and analyze historical maps to unlock lost knowledge about how cities, ecosystems, and infrastructure have evolved over the past century.</p><p>His work spans air quality forecasting, environmental monitoring, and digital archaeology, enabling everything from exposure mapping in underserved communities to identifying long-forgotten pollution sites like abandoned wells and railroads. With collaborators ranging from historians to librarians, Chiang is turning dusty archives into searchable, analyzable data, giving communities the power to understand their past and forecast their future.</p>",
+    "description": "Yao-Yi Chiang uses AI and spatial computing to turn historical maps into actionable data, revealing how cities and ecosystems have changed over time.",
+    "youtube": "sm8dU4ugIn4"
+  },
+  {
+    "name": "Fred Morstatter",
+    "topic": "Cultural Intelligence for AI",
+    "excerpt": "His work helps machines grasp the cultural context behind human behavior, from conflict zones to social platforms.",
+    "content": " <p>Fred Morstatter’s research at USC’s Information Sciences Institute explores one of AI’s most complex frontiers: human culture. From forecasting insurgencies in Mozambique to detecting online echo chambers before they form, Morstatter is building intelligent systems that understand what people value, how they express emotion, and why they make the choices they do.</p><p>By analyzing real-world data, from Telegram posts to prediction markets, he’s designing tools that help policymakers, researchers, and communities anticipate future events and avoid costly mistakes. His work bridges cultural insight and algorithmic design, ensuring AI systems account for context, values, and the diverse realities they seek to model.</p>",
+    "description": "Fred Morstatter develops AI systems that understand culture, values, and human behavior to help forecast conflict and inform better decision-making.",
+    "youtube": "R3rgIwi7Nts"
+  },
+  {
+    "name": "Herb Schorr",
+    "topic": "From Blueprints to Breakthroughs",
+    "excerpt": "He helped ISI grow not just in size, but in ambition, relevance, and impact.",
+    "content": " <p>Herb Schorr, Executive Director of USC’s Information Sciences Institute from 1992 to 2004, led ISI through one of its most transformative eras. A former IBM research executive and system builder, Schorr brought a bold vision to the institute—one that fused rigorous research with real-world impact.</p><p>He reconnected ISI with USC’s academic mission, forging partnerships that allowed researchers to teach, mentor, and work alongside students. Under his leadership, ISI expanded into new fields like artificial intelligence and secure infrastructure, built successful online education platforms, and deepened its contributions to both government and industry.</p><p>Schorr wasn’t just focused on securing funding—he focused on finding and developing people with the ideas and drive to reshape computing.</p><p>From advocating for advanced educational technology to confronting the cyber vulnerabilities of national infrastructure, Schorr pushed ISI to think beyond traditional boundaries. </p>",
+    "description": "Herb Schorr expanded ISI’s reach into AI, cybersecurity, and online education, bridging academic research and systems infrastructure at a critical moment in digital history.",
+    "youtube": "a1-4Ht8HlCA"
+  },
+  {
+    "name": "Robert Felderman",
+    "topic": "Networking at the Speed of Thought",
+    "excerpt": "In an era of dial-up, Felderman dreamed of lightning and built the networks to carry it.",
+    "content": " <p>It started with a napkin sketch at a coffee shop in Marina del Rey. Robert Felderman was a theoretical computer science grad student at UCLA when his advisor sent him to meet Danny Cohen, a legendary figure at USC’s Information Sciences Institute.</p><p>What followed was less an interview and more a torrent of ideas—drawn in ink, fired with excitement, and driven by a belief that networks could move 100 times faster than they did.\n\nAt ISI, Felderman found a place where experimentation was currency and building things mattered more than publishing papers.</p><p>Alongside Cohen and collaborators from Caltech, he helped develop breakthrough networking technologies that would lead to the Atomic LAN and the founding of Miracom, a startup that quietly helped lay the groundwork for how modern data centers work today.</p><p>In this wide-ranging conversation, Felderman revisits the collaborative, open-source ethos of ISI in the 1990s, a time when researchers weren’t chasing unicorns, but ideas. It’s a story of fast networks, faster minds, and the kind of scientific culture that made progress possible.</p>",
+    "description": "At ISI, Robert Felderman helped transform experimental networking into commercial infrastructure still powering the internet today.",
+    "youtube": "SHsXv2TytMk"
+  },
+  {
+    "name": "Wael Abd-Almageed",
+    "topic": "The Deepfake Detective",
+    "excerpt": "He doesn't just detect deepfakes, he dismantles them frame by frame.",
+    "content": " <p>Wael Abd-Almageed grew up between Cairo and Alexandria, shaped by injustice, driven by a fierce belief in ethics, and determined to use his engineering mind to do more than build systems. He wanted to defend the truth. At USC’s Information Sciences Institute, he’s done just that.</p><p>From early work in biometrics to pioneering efforts in deepfake detection, Wael’s mission has remained clear: use AI not to deceive, but to protect. When a manipulated video of Ukraine’s president began circulating, his team’s tools exposed it as a fake.</p><p>That wasn’t a one-off. It was part of an urgent, ongoing effort to defend democracy, dignity, and the line between fact and fiction.</p><p>In this wide-ranging conversation, Wael reflects on the social cost of polarization, the artistic precision of good code, and why AI must be built with empathy—not just algorithms.</p>",
+    "description": "Wael Abd-Almageed uses AI to fight deepfakes, protect truth, and defend democracy from digital deception.",
+    "youtube": "Lcrq9UJUbmc"
+  }
+]
