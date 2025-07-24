@@ -1,0 +1,7 @@
+# robots.txt file
+
+User-agent: *
+Disallow: /assets/
+Allow: /
+
+Sitemap: https://cloudwalkers.isi.edu/sitemap.xml
